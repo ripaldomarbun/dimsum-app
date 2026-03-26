@@ -7,7 +7,7 @@ Sistem aplikasi manajemen restoran untuk pemesanan Dimsum dengan fitur lengkap.
 - **Backend**: PHP native
 - **Database**: MySQL (XAMPP)
 - **Frontend**: HTML, CSS (Bootstrap), JavaScript
-- **Payment**: Midtrans, QRIS, Transfer Bank
+- **Payment**: QRIS, Transfer Bank, Cash
 
 ## Fitur
 
